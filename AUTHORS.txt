@@ -1,6 +1,6 @@
 'dff' Authors: 
 Nicolò Arrigo
 
-'Readex' Original authors:
+'ReadexPro' Original authors:
 Bonnie Shaver-Troup <bshavertroup@lexend.com>
 Thomas Jockin <thomas@thomasjockin.com>
