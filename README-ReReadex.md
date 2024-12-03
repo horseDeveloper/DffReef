@@ -2,14 +2,24 @@
 
 # Quick introduction to the fonts
 ## Lexend & Readex Font Families
-**Lexend** is a variable typeface with weight axis (Thin to Black) designed to improve reading fluency.
-Read more: [Official website - Lexend.com](https://www.lexend.com/)
+**Lexend** is a variable typeface with weight axis (Thin to Black) designed to improve reading fluency. <br>
+Read more: [🔗 Official website - Lexend.com](https://www.lexend.com/) ; [🔗 GitHub/Google Fonts page](https://github.com/googlefonts/lexend) ; [🔗 Google Fonts](https://fonts.google.com/specimen/Lexend)
 
-**Readex Pro** is the world-script expansion of Lexend. It's the same as Lexend, with the addition of more scripts (at this moment: Arabic) - [GitHub page](https://github.com/ThomasJockin/readexpro)
+**Readex Pro** is the world-script expansion of Lexend. It's the same as Lexend, with the addition of more scripts (at this moment: Arabic) <br>
+Read more: - [🔗 Official website - Lexend.com](https://www.lexend.com/) ; [🔗 GitHub/Author page](https://github.com/ThomasJockin/readexpro) ; [🔗 Google Fonts](https://fonts.google.com/specimen/Readex+Pro)
+
+| FONT NAME | WEIGHT-AXIS | WEIGHT-NAMES | width files |
+|---|---|---|---|
+| Lexend | 100 → 900 | Thin; Extralight; Light; Medium; Semibold; Extrabold; Black |  Has 7 different files, each with a different font weight set as default |
+| ReadexPro | 200? → 700 | Extralight; Light; Medium; Semibold | Has a single file with a variable axis |
+
+Lexend and ReadexPro are both unconventional [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) typefaces as they make an exception for the uppercase 'I', giving it a [serif](https://en.wikipedia.org/wiki/Serif).
+**INSERT IMG HERE**
 
 ## dff Font Families
 ### dffLentic & dffReef > Font info
-3 glyphs from the alternative set have been locked in as default. This means you don't need software that supports special font features to access the alternative glyphs, you just need to download and install your preferred font.
+[dff**Le**ntic](https://github.com/horseDeveloper/dffLentic) is a fork of **Le**xend. [dff**Re**ef](https://github.com/horseDeveloper/dffReef) is a fork of **Re**adexPro. <br>
+Both forks are based on the originals, but 3 glyphs from the alternative set have been locked in as default. 
 
 The three modifications:
 **insert image here**
@@ -17,25 +27,29 @@ The three modifications:
 * Alt `g`
 * Alt `a`
 
-### dffLentic & dffReef > Tools used
-* [Opentype Feature Freezer](https://github.com/twardoch/fonttools-opentype-feature-freezer)
-* [FontTools](https://github.com/fonttools/fonttools)
-
-### dffLentic & dffReef > How to download
-Step 1) Read on font weight & width on [Official website - Lexend.com](https://www.lexend.com/)) 
-  If you prefer an interactive demonstration, head over to [Google Fonts/Readex Pro](https://fonts.google.com/specimen/Readex+Pro/tester?query=readex)
-  
-| FONT NAME | FONT WEIGHT | WIDTH files |
-|---|---|---|
-| Lexend | 100 → 900 (aka 9: (Thin → Black) | Has 7 different files, each with a different font weight set as default |
-| Readex Pro | 200 → 700 (aka 6: (Extralight → Bold) | Has a single file with a variable axis
- 
-Step 2?) Download Lokxend Deca [here] **link**
+# How to use dff fonts
+## Install precompiled fonts
+No requirements needed. <br>
+Download your font here, open the file and and follow the installation wizard.
+// get deca as recommmmended, or ifIf you want a font with more width as default (based on Lexend exa, giga, mega, ...) look for it in the corresponding folder.
+1) Download Lokxend Deca [here] **link**
 Step 2?) Download Readex Pro [here] **link**
 Step 2?) If you want a font with more width as default (based on Lexend exa, giga, mega, ...) look for it in the corresponding folder.
-
-Step 3) Open the .ttf file and follow the installation wizard.
 Enjoy!
+
+## Alternatively, build your own fonts
+This is a simple modification of the original work done through editing precompiled fonts. Original source files are untouched. Editing source files is outside the scope of this project.
+
+## Alternatively, edit on top of the original precompiled files
+### With my python tools to automate the process
+(add link here)
+
+### Manually
+Tools used:
+* [Opentype Feature Freezer](https://github.com/twardoch/fonttools-opentype-feature-freezer)
+* [FontTools](https://github.com/fonttools/fonttools)
+* [FontForge](https://github.com/fontforge/fontforge)
+
 
 # Disclaimer
 This project exists only to improve compatibility and ease of use for software that doesn't support easily switching to alternative glyphs. dffLentic & dffReef are completely based on [Lexend](https://www.lexend.com/) and [Readex Pro](https://github.com/ThomasJockin/readexpro) but are in no way related to them. dffLentic & dffReef have different names as per [OFL Guidelines](https://openfontlicense.org/how-to-modify-ofl-fonts/) but I have done my best to maintain the references to the original products.
