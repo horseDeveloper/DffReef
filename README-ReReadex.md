@@ -33,18 +33,24 @@ No requirements needed. <br>
 Download your font here, open the file and and follow the installation wizard. <br>
 Note: It's provided a single file that installs all the different instances of the weight axis.
   * Download dffLentic [📥 Download] **link** (recommended) <br>
-  * Download dffReef [📥 Download] **link** (if your script has been added to Readex) <br>
-Scripts added to ReadexPro (and dffReef consequently): Arabic.
+  * Download dffReef [📥 Download] **link** (if your script has been added to Readex)
 
-If you prefer, you can always install Lexend
-  * Individual instances of weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts)
-  * Single file that installs that installs all the different instances of the weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts/lexend/variable)
-Or ReadexPro:
-  * Single file that installs all the different instances of the weight axis: [📥 Download](https://github.com/ThomasJockin/readexpro/tree/master/fonts/variable)
+Scripts added to ReadexPro (and dffReef consequently): 
+```
+Arabic
+```
+
+If you prefer, you can always install the original fonts:<br>
+| | |
+|---|---|
+| Lexend | Multiple files, each install a single instance of the weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts) |
+| Lexend | Single file that installs that installs all the different instances of the weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts/lexend/variable) |
+| ReadexPro | Single file that installs all the different instances of the weight axis: [📥 Download](https://github.com/ThomasJockin/readexpro/tree/master/fonts/variable) |
+
 Enjoy!
 
 ## Alternatively, build your own fonts
-This is a simple modification of the original work done through editing precompiled fonts. Original source files are untouched. Editing source files is outside the scope of this project.
+This project is a simple modification of the original work done through editing precompiled fonts. Original source files are untouched. Editing source files is outside the scope of this project.
 
 ## Alternatively, edit on top of the original precompiled files
 ### With my python tools to automate the process
