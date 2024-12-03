@@ -3,15 +3,15 @@
 # Quick introduction to the fonts
 ## Lexend & Readex Font Families
 **Lexend** is a variable typeface with weight axis (Thin to Black) designed to improve reading fluency. <br>
-Read more: [🔗 Official website - Lexend.com](https://www.lexend.com/) ; [🔗 GitHub/Google Fonts page](https://github.com/googlefonts/lexend) ; [🔗 Google Fonts](https://fonts.google.com/specimen/Lexend)
+Read more: [🔗 Official website - Lexend.com](https://www.lexend.com/) ; [🔗 GitHub/GoogleFonts page](https://github.com/googlefonts/lexend) ; [🔗 Google Fonts](https://fonts.google.com/specimen/Lexend)
 
 **Readex Pro** is the world-script expansion of Lexend. It's the same as Lexend, with the addition of more scripts (at this moment: Arabic) <br>
 Read more: - [🔗 Official website - Lexend.com](https://www.lexend.com/) ; [🔗 GitHub/Author page](https://github.com/ThomasJockin/readexpro) ; [🔗 Google Fonts](https://fonts.google.com/specimen/Readex+Pro)
 
-| FONT NAME | WEIGHT-AXIS | WEIGHT-NAMES | width files |
-|---|---|---|---|
-| Lexend | 100 → 900 | Thin; Extralight; Light; Medium; Semibold; Extrabold; Black |  Has 7 different files, each with a different font weight set as default |
-| ReadexPro | 200? → 700 | Extralight; Light; Medium; Semibold | Has a single file with a variable axis |
+| FONT NAME | WEIGHT-AXIS | WEIGHT-NAMES | 
+|---|---|---|
+| Lexend | 100 → 900 | Thin; Extralight; Light; Medium; Semibold; Extrabold; Black |
+| ReadexPro | 160 → 700 | Extralight; Light; Medium; Semibold |
 
 Lexend and ReadexPro are both unconventional [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) typefaces as they make an exception for the uppercase 'I', giving it a [serif](https://en.wikipedia.org/wiki/Serif).
 **INSERT IMG HERE**
@@ -30,11 +30,16 @@ The three modifications:
 # How to use dff fonts
 ## Install precompiled fonts
 No requirements needed. <br>
-Download your font here, open the file and and follow the installation wizard.
-// get deca as recommmmended, or ifIf you want a font with more width as default (based on Lexend exa, giga, mega, ...) look for it in the corresponding folder.
-1) Download Lokxend Deca [here] **link**
-Step 2?) Download Readex Pro [here] **link**
-Step 2?) If you want a font with more width as default (based on Lexend exa, giga, mega, ...) look for it in the corresponding folder.
+Download your font here, open the file and and follow the installation wizard. <br>
+Note: It's provided a single file that installs all the different instances of the weight axis.
+  * Download dffLentic [📥 Download] **link** <br>
+  * Download dffReef [📥 Download] **link** <br>
+
+If you prefer, you can always install Lexend
+  * Individual instances of weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts)
+  * Single file that installs that installs all the different instances of the weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts/lexend/variable)
+Or ReadexPro:
+  * Single file that installs all the different instances of the weight axis: [📥 Download](https://github.com/ThomasJockin/readexpro/tree/master/fonts/variable)
 Enjoy!
 
 ## Alternatively, build your own fonts
