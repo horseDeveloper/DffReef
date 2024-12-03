@@ -2,7 +2,7 @@
 
 # Quick introduction to the fonts
 ## Lexend & Readex Font Families
-**Lexend** is a variable typeface with weight axis (Thin to Black) designed to improve reading fluency. <br>
+**Lexend** is a typeface with variable weight axis (Thin to Black) and width axis. It is designed to improve reading fluency. <br>
 Read more: [🔗 Official website - Lexend.com](https://www.lexend.com/) ; [🔗 GitHub/GoogleFonts page](https://github.com/googlefonts/lexend) ; [🔗 Google Fonts](https://fonts.google.com/specimen/Lexend)
 
 **Readex Pro** is the world-script expansion of Lexend. It's the same as Lexend, with the addition of more scripts (at this moment: Arabic) <br>
@@ -32,8 +32,9 @@ The three modifications:
 No requirements needed. <br>
 Download your font here, open the file and and follow the installation wizard. <br>
 Note: It's provided a single file that installs all the different instances of the weight axis.
-  * Download dffLentic [📥 Download] **link** <br>
-  * Download dffReef [📥 Download] **link** <br>
+  * Download dffLentic [📥 Download] **link** (recommended) <br>
+  * Download dffReef [📥 Download] **link** (if your script has been added to Readex) <br>
+Scripts added to ReadexPro (and dffReef consequently): Arabic.
 
 If you prefer, you can always install Lexend
   * Individual instances of weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts)
@@ -47,7 +48,9 @@ This is a simple modification of the original work done through editing precompi
 
 ## Alternatively, edit on top of the original precompiled files
 ### With my python tools to automate the process
-(add link here)
+Requirements: Tools used for the manual process are still required.
+(📥 py line editor add link here)
+(📥 py compare)
 
 ### Manually
 Tools used:
