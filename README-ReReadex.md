@@ -1,6 +1,10 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 # Quick introduction to the fonts
+What are variable fonts? <br>
+     🔗 [Interactive example](https://fonts.google.com/specimen/Readex+Pro/tester): choose your writing system (Latin/Arabic) and play with the sliders on the left.<br>
+     🔗 [Formal explanation](https://fonts.google.com/knowledge/introducing_type/introducing_variable_fonts) (text + images)
+
 ## Lexend & Readex Font Families
 **Lexend** is a typeface with variable weight axis (Thin to Black) and width axis. It is designed to improve reading fluency. <br>
 Read more: [🔗 Official website - Lexend.com](https://www.lexend.com/) ; [🔗 GitHub/GoogleFonts page](https://github.com/googlefonts/lexend) ; [🔗 Google Fonts](https://fonts.google.com/specimen/Lexend)
@@ -10,11 +14,11 @@ Read more: - [🔗 Official website - Lexend.com](https://www.lexend.com/) ; [�
 
 | FONT NAME | WEIGHT-AXIS | WEIGHT-NAMES | 
 |---|---|---|
-| Lexend | 100 → 900 | Thin; Extralight; Light; Medium; Semibold; Extrabold; Black |
-| ReadexPro | 160 → 700 | Extralight; Light; Medium; Semibold |
+| Lexend | 100 → 900 | Thin 100; ExtraLight 200; Light 300; <br>Regular 400 (default);<br>Medium 500; Semibold 600; Bold 700; Extrabold 800; Black 900 |
+| ReadexPro | 160 → 700 | Extralight 200; Light 300; <br>Regular 400 (default); <br>Medium 500; Semibold 600; Bold 700 |
 
 Lexend and ReadexPro are both unconventional [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) typefaces as they make an exception for the uppercase 'I', giving it a [serif](https://en.wikipedia.org/wiki/Serif).
-**INSERT IMG HERE**
+![Lexend-IL](https://github.com/user-attachments/assets/be949aeb-5d45-4b8a-9423-7dc827bbf81c)
 
 ## dff Font Families
 ### dffLentic & dffReef > Font info
@@ -22,10 +26,13 @@ Lexend and ReadexPro are both unconventional [sans-serif](https://en.wikipedia.o
 Both forks are based on the originals, but 3 glyphs from the alternative set have been locked in as default. 
 
 The three modifications:
-**insert image here**
-* Dotted `0`
-* Alt `g`
-* Alt `a`
+| | |
+|---|---|
+| * Dotted `0`<br>* Alt `g`<br>* Alt `a` | ![ddf2](https://github.com/user-attachments/assets/b4fe606e-76aa-456e-b573-5213b404655e) |
+
+Showcase & Comparison
+![image](https://github.com/user-attachments/assets/93469e57-6b52-48c1-b37d-6f965c9b9ae5)
+
 
 # How to use dff fonts
 ## Install precompiled fonts
