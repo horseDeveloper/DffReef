@@ -1,5 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
 # Quick introduction to the fonts
 What are variable fonts? <br>
      🔗 [Interactive example](https://fonts.google.com/specimen/Readex+Pro/tester): choose your writing system (Latin/Arabic) and play with the sliders on the left.<br>
@@ -40,8 +38,8 @@ Showcase & Comparison
 No requirements needed. <br>
 Download your font here, open the file and and follow the installation wizard. <br>
 Note: It's provided a single file that installs all the different instances of the weight axis.
-  * Download dffLentic [📥 Download] **link** (recommended) <br>
-  * Download dffReef [📥 Download] **link** (if your script has been added to Readex)
+  * Download dffLentic [📥 Download] (recommended) <br>
+  * Download dffReef [📥 Download]() (if your script has been added to Readex)
 
 Scripts added to ReadexPro (and dffReef consequently): 
 ```
@@ -51,7 +49,7 @@ Arabic
 If you prefer, you can always install the original fonts:<br>
 | | |
 |---|---|
-| Lexend | Multiple files, each install a single instance of the weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts) |
+| Lexend | Multiple files, each installs a single instance of the weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts) |
 | Lexend | Single file that installs that installs all the different instances of the weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts/lexend/variable) |
 | ReadexPro | Single file that installs all the different instances of the weight axis: [📥 Download](https://github.com/ThomasJockin/readexpro/tree/master/fonts/variable) |
 
@@ -63,8 +61,8 @@ This project is a simple modification of the original work done through editing 
 ## Alternatively, edit on top of the original precompiled files
 ### With my python tools to automate the process
 Requirements: Tools used for the manual process are still required.
-(📥 py line editor add link here)
-(📥 py compare)
+[📥 py-line-editor]
+[📥 py-compare2lexend]
 
 ### Manually
 Tools used:
