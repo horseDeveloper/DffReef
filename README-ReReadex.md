@@ -23,12 +23,13 @@ Lexend and ReadexPro are both unconventional [sans-serif](https://en.wikipedia.o
 ## dff Font Families
 ### dffLentic & dffReef > Font info
 [dff**Le**ntic](https://github.com/horseDeveloper/dffLentic) is a fork of **Le**xend. [dff**Re**ef](https://github.com/horseDeveloper/dffReef) is a fork of **Re**adexPro. <br>
-Both forks are based on the originals, but 3 glyphs from the alternative set have been locked in as default. 
+Both forks are based on the originals, but 3* glyphs from the alternative set have been locked in as default. <br>
+*only 2 in Readex
 
 The three modifications:
 | | |
 |---|---|
-| * Dotted `0`<br>* Alt `g`<br>* Alt `a` | ![ddf2](https://github.com/user-attachments/assets/b4fe606e-76aa-456e-b573-5213b404655e) |
+| * Dotted `0`<br>* Alt `a`<br>* Alt `g` | ![ddf2](https://github.com/user-attachments/assets/b4fe606e-76aa-456e-b573-5213b404655e) |
 
 Showcase & Comparison
 ![image](https://github.com/user-attachments/assets/93469e57-6b52-48c1-b37d-6f965c9b9ae5)
