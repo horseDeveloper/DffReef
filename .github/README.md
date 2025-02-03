@@ -35,7 +35,7 @@ Dff fonts are based on the "deca" version, the one with the least amount of hype
 ### DffLentic & DffReef > Font info
 [Dff**Le**ntic](https://github.com/horseDeveloper/DffLentic) is a fork of **Le**xend. [Dff**Re**ef](https://github.com/horseDeveloper/DffReef) is a fork of **Re**adexPro. <br>
 Both forks are based on the originals, but 3* glyphs from the alternative set have been locked in as default. <br>
-*only 2 in Readex
+(*) _only 2 in Readex_
 
 The three modifications:
 | | |
@@ -51,21 +51,22 @@ Showcase & Comparison:
 ## Install precompiled fonts
 No requirements needed. <br>
 Download your font here, open the file and and follow the installation wizard. <br>
-Note: It's provided a single file that installs all the different instances of the weight axis. Each instance is based on "deca" width axis.
+_Note: It's provided a single file that installs all the different instances of the weight axis. Each instance is based on "**deca**" width axis._
   * Download DffLentic [📥 Download](https://github.com/horseDeveloper/DffLentic/tree/main/DffFonts) (recommended) <br>
   * Download DffReef [📥 Download](https://github.com/horseDeveloper/DffReef/tree/master/DffFonts) (if your script has been added to Readex)
 
 Scripts added to ReadexPro (and DffReef consequently): 
 ```
+Latin
 Arabic
 ```
 
 If you prefer, you can always install the original fonts:<br>
 | | |
 |---|---|
-| Lexend | Multiple files, each installs a single instance of the weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts) |
-| Lexend | Single file that installs that installs all the different instances of the weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts/lexend/variable) |
-| ReadexPro | Single file that installs all the different instances of the weight axis: [📥 Download](https://github.com/ThomasJockin/readexpro/tree/master/fonts/variable) |
+| Lexend | Multiple files, each installs a <ins>single</ins> instance of the weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts) |
+| Lexend | Single file that installs that installs <ins>all</ins> the different instances of the weight axis: [📥 Download](https://github.com/googlefonts/lexend/tree/main/fonts/lexend/variable) |
+| ReadexPro | Single file that installs <ins>all</ins> the different instances of the weight axis: [📥 Download](https://github.com/ThomasJockin/readexpro/tree/master/fonts/variable) |
 
 🎉 Enjoy!
 
@@ -74,17 +75,22 @@ This project is a simple modification of the original work done through editing 
 
 ## Alternatively, edit on top of the original precompiled files
 ### With my python tools to automate the process
-Requirements: Tools used for the manual process are still required.
+Requirements: Tools used for the manual process are still required.<br>
 [📥 py-line-editor]
 [📥 py-compare2lexend]
 
 ### Manually
 Tools used:
-* [Opentype Feature Freezer](https://github.com/twardoch/fonttools-opentype-feature-freezer)
-* [FontTools](https://github.com/fonttools/fonttools)
-* [FontForge](https://github.com/fontforge/fontforge)
+* [github/twardoch/Opentype Feature Freezer](https://github.com/twardoch/fonttools-opentype-feature-freezer)
+* [github/fonttools/FontTools](https://github.com/fonttools/fonttools)
+* [github/fontforge/FontForge](https://github.com/fontforge/fontforge)
 
+# Information for users
+![svg--900x10--c--ff5975](https://github.com/user-attachments/assets/5d694255-3816-469f-abf0-eb09b4e5f7fa)<br>
+✅ The Open Font License is a free software license, and as such permits the fonts to be used, modified, and distributed freely (so long as the resulting fonts remain under the Open Font License).<br>
+✅ Fonts can be used for both personal or commercial use.<br>
+More info on https://openfontlicense.org/ofl-faq/
 
 # Disclaimer
 ![svg--900x10--c--ff5975](https://github.com/user-attachments/assets/5d694255-3816-469f-abf0-eb09b4e5f7fa)<br>
-This project exists only to improve compatibility and ease of use for software that doesn't support easily switching to alternative glyphs. DffLentic & DffReef are completely based on [Lexend](https://www.lexend.com/) and [Readex Pro](https://github.com/ThomasJockin/readexpro) but are in no way related to them. DffLentic & DffReef have different names as per [OFL Guidelines](https://openfontlicense.org/how-to-modify-ofl-fonts/) but I have done my best to maintain the references to the original products.
+This project exists to improve compatibility and ease of use for software that doesn't support easily switching to alternative glyphs. DffLentic & DffReef are completely based on [Lexend](https://www.lexend.com/) and [Readex Pro](https://github.com/ThomasJockin/readexpro) but are in no way related to them. DffLentic & DffReef have different names as per [OFL Guidelines](https://openfontlicense.org/how-to-modify-ofl-fonts/) but I have done my best to maintain the references to the original products.
