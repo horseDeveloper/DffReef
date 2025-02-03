@@ -1,5 +1,5 @@
 # Quick introduction to the fonts
-![Purple line](DffAssets/imgs-for-docs/svg--900x05--c--ff5975.svg)<br>
+![Purple line](/DffAssets/imgs-for-docs/svg--900x05--c--ff5975.svg)<br>
 What are variable fonts? <br>
      🔗 [Interactive example](https://fonts.google.com/specimen/Readex+Pro/tester): choose your writing system (Latin/Arabic) and play with the sliders on the left.<br>
      🔗 [Formal explanation](https://fonts.google.com/knowledge/introducing_type/introducing_variable_fonts) (text + images)
@@ -28,7 +28,7 @@ Zetta • HEXP 100
 ```
 Dff fonts are based on the "deca" version, the one with the least amount of hyper-expansion. <br>
 
-| Lexend and ReadexPro are both unconventional [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) typefaces as they make an exception for the uppercase 'i', giving it a [serif](https://en.wikipedia.org/wiki/Serif). | ![Serif explanation](DffAssets/images/serif-explanation.png) |
+| Lexend and ReadexPro are both unconventional [sans-serif](https://en.wikipedia.org/wiki/Sans-serif) typefaces as they make an exception for the uppercase 'i', giving it a [serif](https://en.wikipedia.org/wiki/Serif). | ![Serif explanation](/DffAssets/images/serif-explanation.png) |
 |---|---|
 
 ## Dff Font Families
@@ -40,14 +40,14 @@ Both forks are based on the originals, but 3* glyphs from the alternative set ha
 The three modifications:
 | | |
 |---|---|
-| * Dotted `0`<br>* Alt `a`<br>* Alt `g` | ![Differences between Lexend and Dff](DffAssets/images/Lexend-Readex-Dff-differences.png) |
+| * Dotted `0`<br>* Alt `a`<br>* Alt `g` | ![Differences between Lexend and Dff](/DffAssets/images/Lexend-Readex-Dff-differences.png) |
 
 Showcase & Comparison:
-![Full comparison](DffAssets/images/full-comparison.png)
+![Full comparison](/DffAssets/images/full-comparison.png)
 
 
 # How to use Dff fonts
-![Purple line](DffAssets/imgs-for-docs/svg--900x05--c--ff5975.svg)<br>
+![Purple line](/DffAssets/imgs-for-docs/svg--900x05--c--ff5975.svg)<br>
 ## Install precompiled fonts
 No requirements needed. <br>
 Download your font here, open the file and and follow the installation wizard. <br>
@@ -86,11 +86,11 @@ Tools used:
 * [github/fontforge/FontForge](https://github.com/fontforge/fontforge)
 
 # Information for users
-![Purple line](DffAssets/imgs-for-docs/svg--900x05--c--ff5975.svg)<br>
+![Purple line](/DffAssets/imgs-for-docs/svg--900x05--c--ff5975.svg)<br>
 ✅ The Open Font License is a free software license, and as such permits the fonts to be used, modified, and distributed freely (so long as the resulting fonts remain under the Open Font License).<br>
 ✅ Fonts can be used for both personal or commercial use.<br>
 More info on https://openfontlicense.org/ofl-faq/
 
 # Disclaimer
-![Purple line](DffAssets/imgs-for-docs/svg--900x05--c--ff5975.svg)<br>
+![Purple line](/DffAssets/imgs-for-docs/svg--900x05--c--ff5975.svg)<br>
 This project exists to improve compatibility and ease of use for software that doesn't support easily switching to alternative glyphs. DffLentic & DffReef are completely based on [Lexend](https://www.lexend.com/) and [Readex Pro](https://github.com/ThomasJockin/readexpro) but are in no way related to them. DffLentic & DffReef have different names as per [OFL Guidelines](https://openfontlicense.org/how-to-modify-ofl-fonts/) but I have done my best to maintain the references to the original products.
