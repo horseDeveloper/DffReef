@@ -1,4 +1,4 @@
-Copyright 2023 Nicolò Arrigo (https://github.com/horseDeveloper/dffReef/), with Reserved Font Name “dffReef”.
+Copyright 2023 Nicolò Arrigo (https://github.com/horseDeveloper/dffReef/), with Reserved Font Name “DffReef”.
 
 Based on: Copyright 2018 The Readex Pro Project Authors (https://github.com/ThomasJockin/readexpro), with Reserved Font Name “RevReading Lexend”.
 
