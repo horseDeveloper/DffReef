@@ -76,8 +76,8 @@ This project is a simple modification of the original work done through editing 
 ## Alternatively, edit on top of the original precompiled files
 ### With my python tools to automate the process
 Requirements: Tools used for the manual process are still required.<br>
-[📥 py-line-editor]
-[📥 py-compare2lexend]
+[📥 py-fontLineEditor](https://github.com/horseDeveloper/py-fontLineEditor)
+[📥 py-compare2Lexend](https://github.com/horseDeveloper/py-compare2Lexend/tree/master)
 
 ### Manually
 Tools used:
